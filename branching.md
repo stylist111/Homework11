@@ -12,3 +12,5 @@ git tag
 ## More info about branching
 
 [Video](https://www.youtube.com/watch?v=gwOVynGnDZA&ab_channel=freeCodeCamp.org)
+
+![Branching picture](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)

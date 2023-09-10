@@ -10,5 +10,7 @@ git rm
 git mv
 git clean
 ```
+## More info about git commands
+[Video] (https://www.youtube.com/watch?v=Uz_mTOQL9Tw&ab_channel=AnInsightfulTechie)
 
 

@@ -1,13 +1,14 @@
-# *Branching commands*
+# **Branching commands**
 
-*git branch*
-*git checkout*
-*git merge*
-*git mergetool*
-*git log*
-*git stash*
-*git tag*
+```git branch
+git checkout
+git merge
+git mergetool
+git log
+git stash
+git tag
+```
 
-## Video-guide
+## More info about branching
 
 [Video] (https://www.youtube.com/watch?v=gwOVynGnDZA&ab_channel=freeCodeCamp.org)
